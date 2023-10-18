@@ -20,7 +20,9 @@ const config: Config = {
 
           "neutral": "#3a253c",
 
-          "base-100": "#21374a",
+          "base-100": "#e3e6e6",
+
+          "base-200": "#21374a",
 
           "info": "#75a2d7",
 
